@@ -8,6 +8,7 @@ package arraydemow24tue;
  *This has been modified by Logan on 23 Jan at 12:47PM
  * @author Ronak
  * Hello there this is for pull
+ * Hello there this is for fetch
  */
 public class Student {
     private int sid;
